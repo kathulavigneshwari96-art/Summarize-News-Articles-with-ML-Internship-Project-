@@ -59,6 +59,9 @@ This project demonstrates how Machine Learning and NLP can be applied to automat
 - [Kaggle News Dataset](https://www.kaggle.com/)  
 - HuggingFace Transformers Documentation  
 - Research papers on text summarization (Extractive & Abstractive methods)
--
+
+## Project Documentation
+click[https://1drv.ms/w/c/4B4FCB849CE32BF7/EW2taFV1aCBLkPS3tpSoQQsBpebMfmJQ1P_NHuRIzTJhtw] (Summarize News Articles with ML Project_documentation)
+to download the full project documentation
 
 
